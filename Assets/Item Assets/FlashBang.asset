@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04e9a784551a117409a009a2eb6635eb, type: 3}
+  m_Name: FlashBang
+  m_EditorClassIdentifier: 
+  itemName: Flash Bang
+  sprite: {fileID: 21300000, guid: be03b16f84198aa449800a95600fbe02, type: 3}
+  category: 4
+  rarity: 1
+  isActiveItem: 1
+  rechargeRequirement: 150
+  description: 'Active: Knocks back Nearyby Enemies and Stuns them'
+  pushbackForce: 1000
+  stunDuration: 2
+  effectRadius: 15

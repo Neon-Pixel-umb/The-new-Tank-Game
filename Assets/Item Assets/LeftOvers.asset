@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70ba1aa42cc6c0e4a9b023976e865e9f, type: 3}
+  m_Name: LeftOvers
+  m_EditorClassIdentifier: 
+  itemName: Leftovers
+  sprite: {fileID: 21300000, guid: 1ecd1413fd210194c8b065a41a808765, type: 3}
+  category: 0
+  rarity: 3
+  isActiveItem: 0
+  rechargeRequirement: 0
+  description: Health Up. Gain one Heart after a completed wave
+  healthIncrease: 1

@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: tileMap
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -883515486, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: 1675019233, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: 601178381, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: -401863422, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: 1627683239, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: -508351629, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: -1915865460, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: -930682646, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: 1786913609, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: 890419702, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: -1962690325, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: -144994462, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: 1932648699, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: 1944978480, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: -48645665, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: 665788319, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: -296131166, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: 2060462159, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: 74822061, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: 423068440, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: -1481672616, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: -1541137342, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: 671096264, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: -923612011, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: -329420014, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: 61348213, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: 1034098134, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  - {fileID: 171536682, guid: 183951bf99892d34d97f5250419f0b9c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - TileSheet_21
+  - TileSheet_20
+  - TileSheet_23
+  - TileSheet_22
+  - TileSheet_25
+  - TileSheet_24
+  - TileSheet_27
+  - TileSheet_26
+  - TileSheet_9
+  - TileSheet_8
+  - TileSheet_1
+  - TileSheet_0
+  - TileSheet_3
+  - TileSheet_2
+  - TileSheet_5
+  - TileSheet_4
+  - TileSheet_7
+  - TileSheet_6
+  - TileSheet_18
+  - TileSheet_19
+  - TileSheet_10
+  - TileSheet_11
+  - TileSheet_12
+  - TileSheet_13
+  - TileSheet_14
+  - TileSheet_15
+  - TileSheet_16
+  - TileSheet_17
+  m_RenderDataMap: {}
+  m_Tag: tileMap
+  m_IsVariant: 0
